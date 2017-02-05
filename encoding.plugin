@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=encodingpy
+IAge=3
+Name=Encoding
+Name[ru]=Кодировка
+Description=Open the document in a different encoding
+Description[ru]=Открыть документ в другой кодировке
+Icon=gucharmap
